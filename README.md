@@ -35,7 +35,7 @@ Among all the models, **Support Vector Machine (SVM)** achieved the highest accu
 * Scikit-learn
 * Natural Language Processing (NLP)
 * Matplotlib / Seaborn
-
+* XAMPP (for database/backend support)
 ---
 
 ## 📂 Project Structure
