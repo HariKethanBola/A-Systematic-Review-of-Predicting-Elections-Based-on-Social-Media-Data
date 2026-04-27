@@ -1,7 +1,3 @@
-<img width="577" height="81" alt="image" src="https://github.com/user-attachments/assets/7c58ab34-25ae-4d75-9294-bcc588565d3a" />Here’s a **clean, professional README.md** you can directly copy and paste into your GitHub repo 👇
-
----
-
 # 📊 A Systematic Review of Predicting Elections Based on Social Media Data
 
 ## 📌 Overview
